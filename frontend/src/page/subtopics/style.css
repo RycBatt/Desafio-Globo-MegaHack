@@ -35,12 +35,12 @@
 }
 
 .g1{
-    background-color:  rgba(255,0,0,.4);
+    background-color:  rgba(255,0,0, 0.4);
     text-align: center;   
 }
 
 .ge{
-    background-color: rgba(0,0,255,0.4);
+    background-color: rgba(0, 177, 38, 0.4);
 }
 
 .gshow{
@@ -52,5 +52,5 @@
 }
 
 .videos{
-    background-color: rgba(139,0,0,0.4)
+    background-color: rgba(0,0,255,0.4);
 }
